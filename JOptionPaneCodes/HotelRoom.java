@@ -1,4 +1,3 @@
-package jOption;
 import javax.swing.JOptionPane;
 
 public class HotelRoom {
