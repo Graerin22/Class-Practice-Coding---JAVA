@@ -1,0 +1,52 @@
+--- Student Feedback Records ---
+
+Student Name: Juan Dela Cruz
+Course: BSIT
+Feedback: The lesson was very helpful.
+Rating: 5 (Excellent)
+
+Student Name: Maria Santos
+Course: BSCS
+Feedback: It was okay.
+Rating: 3 (Average)
+
+------------------------
+Total Feedbacks: 2
+Average Rating: 4.0
+
+Rating Summary:
+Excellent: 1
+Good: 0
+Average: 1
+Poor: 0
+Very Poor: 0
+
+Good Feedback!
+------------------------
+
+--- Student Feedback Records ---
+
+Student Name: Juan Dela Cruz
+Course: BSIT
+Feedback: The lesson was very helpful.
+Rating: 5 (Excellent)
+
+Student Name: Maria Santos
+Course: BSCS
+Feedback: It was okay.
+Rating: 3 (Average)
+
+------------------------
+Total Feedbacks: 2
+Average Rating: 4.0
+
+Rating Summary:
+Excellent: 1
+Good: 0
+Average: 1
+Poor: 0
+Very Poor: 0
+
+Good Feedback!
+------------------------
+
